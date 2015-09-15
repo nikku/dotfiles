@@ -1,0 +1,1 @@
+[[ -f "$HOME/.zsh/_z/z.sh" ]] && source "$HOME/.zsh/_z/z.sh"

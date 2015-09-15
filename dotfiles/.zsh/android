@@ -1,0 +1,2 @@
+export PATH=$PATH:$HOME/Tools/android-sdk-linux/platform-tools
+alias adbg='adb kill-server && sudo adb start-server'
